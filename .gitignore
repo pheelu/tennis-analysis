@@ -3,4 +3,5 @@ runs/
 yolovenv/
 input_videos/
 training/.env
-training/tennis-ball-detection-6/
+training/tennis-ball-detection-6/tennis-ball-detection-6/
+models/
