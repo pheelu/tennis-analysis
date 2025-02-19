@@ -5,3 +5,4 @@ input_videos/
 training/.env
 training/tennis-ball-detection-6/tennis-ball-detection-6/
 models/
+yolov5l6u.pt
