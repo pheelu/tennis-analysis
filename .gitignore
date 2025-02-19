@@ -2,3 +2,5 @@ yolov8x.pt
 runs/
 yolovenv/
 input_videos/
+training/.env
+training/tennis-ball-detection-6/
